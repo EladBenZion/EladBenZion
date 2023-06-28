@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EladBenZion
 - 👀 I’m interested in coding and graphic design...
-- 🤹‍♀️ Skills: HTML, CSS, JavaScript, React, Tailwind, Nextjs, Nodejs, Java, TypeScript, MongoDB, MySQL, Python
+- 🤹‍♀️ Skills: HTML, CSS, JavaScript, React, Sass, Jqurey, Photoshop, Figma, Tailwind, Nextjs, Nodejs, Java, TypeScript, MongoDB, MySQL, Python
 - 📫 retorx.dev@gmail.com 
 
 <!---
