@@ -40,12 +40,31 @@ I’m a **software engineer who writes code like a weapon** — combining red te
 
 ## 🛠️ Skills & Tools
 
-```
-Python • Bash • Node.js • React • C • C# • Docker • AWS • Git • SQL • MongoDB
-Metasploit • Nmap • Burp Suite • Wireshark • Linux • Reverse Engineering • Exploit Dev
-```
+### Frontend Development 🔥  
+HTML5 • JavaScript • TypeScript • React.js • Next.js • jQuery • Vue.js • Three.js
 
----
+### Backend Development 💻  
+Node.js • Express.js • Flask • Django • FastAPI • JWT • REST APIs • WebSockets / Socket.IO • GraphQL
+
+### Databases ⚙️  
+MongoDB • MySQL • PostgreSQL • SQLite • Redis • Neo4j
+
+### Design Tools 🎨  
+CSS3 • Sass • Bootstrap • Tailwind CSS • Material UI • Figma
+
+### Programming Languages 🚀  
+Python • C • C++ • C# • Java • JavaScript • TypeScript • Bash
+
+### Cybersecurity, Networks & Cloud Security 🛡️  
+Kali Linux • Burp Suite • Metasploit • OWASP Top 10 • Web Exploitation • Privilege Escalation • Active Directory  
+Nmap • Wireshark • Netcat • OSI Model • VLANs • Firewalls • Cisco IOS • Routing & Switching  
+AWS IAM • S3 Security • EC2 Security • VPC Configuration • Terraform • Docker Security • GitHub Secret Scanning
+
+### AI & Automation 🤖  
+OpenAI / GPT • LangChain • Transformers • TensorFlow • Pandas • Scikit-Learn • Prompt Engineering
+
+### DevOps & Tools 🛠️  
+Git • GitHub • Docker • Postman • VS Code • Linux
 
 ## 🔗 Connect With Me
 
